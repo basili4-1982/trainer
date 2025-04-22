@@ -1,0 +1,10 @@
+POST localhost:8080/task
+Content-Type: application/json
+
+{
+  "Name": "one code",
+  "Code": "echo \"hi\";",
+  "Runner": "php8"
+}
+
+###
